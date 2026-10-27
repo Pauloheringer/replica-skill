@@ -1,0 +1,22 @@
+feature,area,priority,original,clone,notes
+One-click copy prompt to clipboard,core,must,yes,no,hero CTA
+Copied confirmation feedback,core,must,yes,no,assumed toast or label swap
+Clipboard-blocked fallback (select-all text),core,must,no,no,not seen on original; add it
+Download prompt as .md file,core,must,yes,no,S10
+Own Wi-Fi diagnose-and-fix prompt (written fresh),content,must,yes,no,match structure in recon.md not the words
+Requirements section,content,must,yes,no,S05
+Responsive mobile layout,layout,must,yes,no,assumed
+Send to my computer,handoff,should,yes,no,mechanism unknown; email or share sheet
+Copy page link,sharing,should,yes,no,
+What it does feature list,content,should,yes,no,S03
+How to use in 3 steps,content,should,yes,no,S04
+FAQ accordion,content,should,yes,no,S06
+Diagnose-only mode in the prompt,content,should,yes,no,
+Credit block for idea source,content,could,yes,no,credit whoever inspired yours
+Community / newsletter CTA,growth,could,yes,no,point at your own list
+Multi-prompt template (one page per prompt slug),platform,could,no,no,makes the page reusable
+Copy / download analytics,growth,could,no,no,guess the original tracks this
+Original prompt text,content,skip,yes,no,theirs; write your own
+Pixel-art illustration and branding,brand,skip,yes,no,theirs
+Original author credit and video,content,skip,yes,no,not yours to claim
+Breeze Instagram automation product,product,skip,yes,no,separate app; separate recon
